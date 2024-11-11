@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "PointCloudViewer"
-include(":app")
- 
+include(":demo")
+include(":pointcloudviewer")
